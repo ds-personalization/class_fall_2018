@@ -2,7 +2,7 @@
 Data Science Institute  
 Industrial Engineering and Operations Research  
 
-Instructor: **Brett Vintch**, PhD
+Instructor: **Brett Vintch** PhD
 
 
 with guest lectures by:  
@@ -81,7 +81,7 @@ This course will focus on common personalization algorithms and theory, includin
 - Bayesian approaches
 
 
-#### 5. Content based personalization  
+#### Content based personalization  
 *“Users that like content that [looks/sounds/reads] like this also might like…“*
 
 - Domains:
@@ -90,7 +90,7 @@ This course will focus on common personalization algorithms and theory, includin
   * Audio
 
 
-#### 6. Hybrid approaches
+#### Hybrid approaches
 
 - Ensembles
 - Explicit combinations
