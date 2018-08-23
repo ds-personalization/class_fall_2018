@@ -19,8 +19,7 @@ This course will focus on common personalization algorithms and theory, includin
 
 ## Prerequisites
 
-**Math**: Linear algebra preferred, but not required
-
+**Math**: Linear algebra preferred, but not required  
 **CS**: A scripting language, preferably Python
 
 
@@ -44,10 +43,10 @@ This course will focus on common personalization algorithms and theory, includin
   * Diversity
   * How to incorporate new types of data  
     * User or Item features
-    * Real-time user context
+    * Real-time user context  
   * Time-variance  
     * User states or attribute drifts
-    * Positive feedback loop
+    * Positive feedback loop  
   * Aspirational vs actual (stated vs revealed)
 
 
