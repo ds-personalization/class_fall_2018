@@ -7,6 +7,7 @@ Instructor: **Brett Vintch** PhD
 
 with guest lectures by:  
 **Sam Garrett** | Senior Data Science Engineer at iHeartRadio
+**Brian Quinn** | Lead Data Science at Comcast Cable
 
 
 ## Course Description 
